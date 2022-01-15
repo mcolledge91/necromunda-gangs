@@ -4,7 +4,7 @@
 
 ----
 
-## Leader: Master Nautican, Flamingo, 180 Creds
+## Leader: Master Nautican, Flamingo, 205 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld     | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|--------|------|-----|-----|
@@ -29,7 +29,7 @@
 | **Secondary**       | Cunning, Savant               |
 
 ----
-## Champion: Syphonite, Swan, 90 Creds
+## Champion: Syphonite, Swan, 130 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
