@@ -256,20 +256,14 @@ Cred Balance `0 creds`
 
 ## Advancements
 
-* 1500 credits
-* 5 rep
-* 6 additional primary skills (leaders can have 1+2, champions 1+1, juves/prospects/specialists +1)
-* 3 characteristic increases (no fighter can have more than 1)
-* Gang is Law Abiding or Outlaw, effecting access to items on the trading post and black market. Law Abiding get Trading post (10) and Black Market (8). Outlaw get Trading Post (8) and Black Market (10).
+- Flamingo: Iron Will, Spring Up
+- Swan: Nerves of Steel
+- Pelican: Nerves of Steel
+- Loon: Nerves of Steel
 
-Flamingo: Iron Will, Spring Up
-Swan: Nerves of Steel
-Pelican: Nerves of Steel
-Loon: Nerves of Steel
-
-Flamingo `+1 Ld`
-Duck `+1 Mv`
-Pelican `+1 BS`
+- Flamingo `+1 Ld`
+- Duck `+1 Mv`
+- Pelican `+1 BS`
 
 ----
 
