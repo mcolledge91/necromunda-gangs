@@ -6,9 +6,9 @@
 
 ## Leader: Master Nautican, Flamingo, 180 Creds
 
-| M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
------|----|----|---|---|---|----|---|----|------|-----|-----|
-| 4" | 4+ | 4+ | 3 | 3 | 2 | 4+ | 1 | 7+ | 7+   | 6+  | 6+  |
+| M  | WS | BS | S | T | W | I  | A | Ld     | Cool | Wil | Int |
+-----|----|----|---|---|---|----|---|--------|------|-----|-----|
+| 4" | 4+ | 4+ | 3 | 3 | 2 | 4+ | 1 | **6+** | 7+   | 6+  | 6+  |
 
 ### Weapons
 
@@ -55,163 +55,174 @@
 
 ----
 
-## Ganger Subnautican, Duck, 160 Creds
+## Ganger Subnautican, Duck, 290 Creds
 
-| M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
------|----|----|---|---|---|----|---|----|------|-----|-----|
-| 4" | 3+ | 5+ | 5 | 5 | 3 | 4+ | 2 | 8+ | 6+   | 7+  | 7+  |
+| M      | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
+---------|----|----|---|---|---|----|---|----|------|-----|-----|
+| **5"** | 3+ | 5+ | 5 | 5 | 3 | 4+ | 2 | 8+ | 6+   | 7+  | 7+  |
 
 ### Weapons
 
 | Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
 |----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
 | Open Fists     | -     | E     | -     | -     | S   | -1 | 1 | -  | Melee, Knockback               |
+| Power Sword    | -     | E     | -     | -     | S+1 | -2 | 1 | -  | Melee, Power, Parry            |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       | Hazard Suit, Armoured Undersuit                                          |
+| **Wargear**       | Hazard Suit, Armoured Undersuit, Light Carapace Armour                   |
 | **Skills**        | Berserker                                                                |
 | **Special Rules** | Bodyguard, Indentured Fighter                                            |
 
 ----
 
-## Champion, Pelican, X Creds
+## Champion, Pelican, 170 Creds
 
-| M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
------|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| M  | WS | BS     | S | T | W | I  | A | Ld | Cool | Wil | Int |
+-----|----|--------|---|---|---|----|---|----|------|-----|-----|
+| 5" | 3+ | **3+** | 3 | 3 | 2 | 4+ | 1 | 6+ | 7+   | 8+  | 8+  |
 
 ### Weapons
 
-| Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
-|----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Weapon          | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
+|-----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
+| Grenade w/ Frag | 6"    | 24"   | -1    | -     | 3   | -  | 1 | 6+ | Blast (3"), Knockback          |
 
-|                   |                                                                          |
-|-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+|                   |                                 |
+|-------------------|---------------------------------|
+| **Wargear**       | Armoured Undersuit, Mesh Armour |
+| **Skills**        | Fearsome, **Nerves of Steel**   |
+| **Special Rules** | Gang Hierarchy (Champion), Tools of the Trade, Group Activation (1), Archetype: Survivor |
+
+| Profile: Survivor |                    |
+|-------------------|--------------------|
+| **Primary**       | Ferocity           | 
+| **Secondary**     | Combat, Leadership |
 
 ----
 
-## Champion, Loon, X Creds
+## Champion, Loon, 240 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 3+ | 4+ | 3 | 3 | 2 | 4+ | 1 | 6+ | 7+   | 8+  | 8+  |
 
 ### Weapons
 
 | Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
 |----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Flamer         | -     | T     | -     | -     | 4   | -1 | 1 | 5+ | Blaze, Template                |
 
-|                   |                                                                          |
-|-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+|                   |                                 |
+|-------------------|---------------------------------|
+| **Wargear**       | Armoured Undersuit, Mesh Armour |
+| **Skills**        | Fearsome, **Nerves of Steel**   |
+| **Special Rules** | Gang Hierarchy (Champion), Tools of the Trade, Group Activation (1), Archetype: Survivor |
+
+| Profile: Survivor |                    |
+|-------------------|--------------------|
+| **Primary**       | Ferocity           | 
+| **Secondary**     | Combat, Leadership |
 
 ----
 
-## Ganger, Dragonfly, X Creds
+## Ganger, Dragonfly, 105 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 4+ | 4+ | 3 | 3 | 1 | 4+ | 1 | 8+ | 8+   | 8+  | 8+  |
 
 ### Weapons
 
-| Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
-|----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Weapon            | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
+|-------------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
+| Lasgun /w hotshot | 18"   | 24"   | +1    | -     | 4   | -1 | 1 | 4+ | -                              |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+| **Wargear**       | Armoured Undersuit, Mesh Armour                                          |
+| **Skills**        | -                                                                        |
+| **Special Rules** | Gang Fighter (Ganger)                                                    |
 
 ----
 
-## Ganger, Stonefly, X Creds
+## Ganger, Stonefly, 105 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 4+ | 4+ | 3 | 3 | 1 | 4+ | 1 | 8+ | 8+   | 8+  | 8+  |
 
 ### Weapons
 
-| Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
-|----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Weapon            | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
+|-------------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
+| Lasgun /w hotshot | 18"   | 24"   | +1    | -     | 4   | -1 | 1 | 4+ | -                              |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+| **Wargear**       | Armoured Undersuit, Mesh Armour                                          |
+| **Skills**        | -                                                                        |
+| **Special Rules** | Gang Fighter (Ganger)                                                    |
 
 ----
 
-## Ganger, Mosquito, X Creds
+## Ganger, Mosquito, 105 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 4+ | 4+ | 3 | 3 | 1 | 4+ | 1 | 8+ | 8+   | 8+  | 8+  |
 
 ### Weapons
 
-| Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
-|----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Weapon            | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
+|-------------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
+| Lasgun /w hotshot | 18"   | 24"   | +1    | -     | 4   | -1 | 1 | 4+ | -                              |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+| **Wargear**       | Armoured Undersuit, Mesh Armour                                          |
+| **Skills**        | -                                                                        |
+| **Special Rules** | Gang Fighter (Ganger)                                                    |
 
 ----
 
-## Ganger, Gnat, X Creds
+## Ganger, Gnat, 105 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 4+ | 4+ | 3 | 3 | 1 | 4+ | 1 | 8+ | 8+   | 8+  | 8+  |
 
 ### Weapons
 
-| Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
-|----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| Weapon            | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
+|-------------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
+| Lasgun /w hotshot | 18"   | 24"   | +1    | -     | 4   | -1 | 1 | 4+ | -                              |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+| **Wargear**       | Armoured Undersuit, Mesh Armour                                          |
+| **Skills**        | -                                                                        |
+| **Special Rules** | Gang Fighter (Ganger)                                                    |
 
 ----
 
-## Ganger Type, Name, X Creds
+## Ganger Type, Waste, 30 Creds
 
 | M  | WS | BS | S | T | W | I  | A | Ld | Cool | Wil | Int |
 -----|----|----|---|---|---|----|---|----|------|-----|-----|
-|  |  |  |  |  |  |  |  |  |    |   |   |
+| 5" | 4+ | 4+ | 3 | 3 | 1 | 4+ | 1 | 8+ | 8+   | 8+  | 8+  |
 
 ### Weapons
 
 | Weapon         | S Rng | L Rng | S Acc | L Acc | Str | Ap | D | Am | Traits                         |
 |----------------|-------|-------|-------|-------|-----|----|---|----|--------------------------------|
-| |     |    |     |      |    |  |  |  | |
+| -              |       |       |       |       |     |    |   |    |                                |
 
 |                   |                                                                          |
 |-------------------|--------------------------------------------------------------------------|
-| **Wargear**       |  |
-| **Skills**        |  |
-| **Special Rules** |  |
+| **Wargear**       | -                                                                        |
+| **Skills**        | -                                                                        |
+| **Special Rules** | Gang Fighter (Ganger)                                                    |
 
 ----
 
@@ -225,9 +236,21 @@ Names: Flamingo, Swan, Duck
 
 Purchase: 2 Champions `2 x 60 = 120 creds`, 5 Hive Scum `5 x 30 = 150 creds`, total `270 creds, 795 creds remaining`
 
-Names: Pelican, Loon, Dragonfly, Stonefly, Mosquito, Gnat, Moth
+Names: Pelican, Loon, Dragonfly, Stonefly, Mosquito, Gnat, Waste
 
-Cred Balance `795 creds`
+Purchase for Dragonfly, Stonefly, Mosquito, Gnat: Lasgun w/ Hotshot Laspack `4 x 35 = 140 creds`, Mesh Armour w/ Armoured Undersuit, `4 x 40 = 160 creds` , total `300 creds, 495 creds remaining`
+
+Purchase for Pelican: Mesh Armour `15 creds`, Armoured undersuit `25 creds`, Grenade Launcher + Frag `70 creds` total `110 creds, 385 creds remaining` 
+
+Purchase for Loon: Mesh Armour `15 creds`, Armoured undersuit `25 creds`, Flamer `140 Creds`, total `180 creds, 205 creds remaining`
+
+Purchase for Duck: Power Sword `50 creds`, Light Carapace Armour `80 Creds` total `130 creds, 75 creds remaining`
+
+Purchase for Flamingo: Armoured Undersuit `25 creds`, total `25 creds, 50 creds remaining`
+
+Purchase for Swan: Armoured Undersuit `25 creds`, Telescopic Sight `25 Creds`, total `50 creds, 0 creds remaining`
+
+Cred Balance `0 creds`
 
 ----
 
@@ -241,6 +264,12 @@ Cred Balance `795 creds`
 
 Flamingo: Iron Will, Spring Up
 Swan: Nerves of Steel
+Pelican: Nerves of Steel
+Loon: Nerves of Steel
+
+Flamingo `+1 Ld`
+Duck `+1 Mv`
+Pelican `+1 BS`
 
 ----
 
