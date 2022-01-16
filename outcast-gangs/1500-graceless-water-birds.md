@@ -19,7 +19,7 @@
 
 |                   |                                                                                            |
 |-------------------|--------------------------------------------------------------------------------------------|
-| **Wargear**       | Mesh Armour, Bio-Booster, Stimm-Slug Stash                                                 |
+| **Wargear**       | Mesh Armour, Bio-Booster, Stimm-Slug Stash, Armoured Undersuit                             |
 | **Skills**        | Step Aside, Overseer, **Iron Will**, **Spring Up**                                         |
 | **Special Rules** | Nautican Syphoning Delegation Hierarchy (Leader) ,Group Activation (2), Tools of the Trade |
 
@@ -44,7 +44,7 @@
 
 |                   |                                                                                              |
 |-------------------|----------------------------------------------------------------------------------------------|
-| **Wargear**       | Mesh Armour, Cult Icon                                                                       |
+| **Wargear**       | Mesh Armour, Cult Icon, Armoured Undersuit, Telescopic Sight                                 |
 | **Skills**        | Dodge, **Nerves of Steel**                                                                   |
 | **Special Rules** | Nautican Syphoning Delegation Hierarchy (Champion), Group Activation (1), Tools of the Trade |
 
